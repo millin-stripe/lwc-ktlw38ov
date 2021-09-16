@@ -1,0 +1,13 @@
+{
+  "modules": [
+    {
+      "npm": "lightning-base-components"
+    },
+    {
+      "npm": "@salesforce/babel-preset-design-system-react"
+    },
+    {
+      "dir": "src"
+    }
+  ]
+}
